@@ -4,9 +4,8 @@
 
 I'm a Senior Quality Engineer with experience over 16 years with a background in **test automation, API testing, performance testing, security testing, CI/CD, and Kubernetes**.
 
-Over the years, my work has gradually moved beyond just writing and executing test cases. I've spent a lot of time figuring out how to make testing more **automated, reliable, maintainable, and useful to the overall engineering process**.
+Over the years, my work has gradually moved beyond just writing and executing test cases. I've spent a lot of time figuring out how to make testing more **automated, reliable, maintainable, and useful to the overall engineering process**. Recently I have been exploring **AI and LLM testing**, particularly **RAG evaluation**.
 
-More recently, I've been exploring **AI and LLM testing**, particularly **RAG evaluation**. This has been a really interesting shift because testing an AI system isn't quite the same as testing a traditional application. There isn't always a single right answer, and deciding whether an answer is "good" requires a different way of thinking about quality.
 ---
 
 ## What I work with
@@ -87,20 +86,6 @@ I'm still learning and experimenting in this space, and that's intentional. Ther
 
 ---
 
-# Some of the things I'm working on
-
-### RAG Evaluation
-
-An ongoing exploration into evaluating RAG applications using automated evaluation techniques.
-
-Some of the areas I'm looking at:
-
-* Golden dataset generation
-* Retrieval evaluation using different Deepeval metrics.
-* Hallucination detection
-* LLM-based evaluation
-* Comparing different evaluation metrics
-
 ### Test Automation
 
 Building and experimenting with automation approaches for:
@@ -126,74 +111,67 @@ Working with applications running on Kubernetes and understanding the testing ch
 
 ---
 
-# Technology
+# 🛠️ Technology Stack
 
-**Languages**
+### 👨‍💻 Programming
 
-`Python`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Automation**
+### 🧪 Test Automation
 
-`Robot Framework` · `Selenium` · `Playwright`
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge\&logo=robotframework\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
 
-**API & Security**
+### 🔌 API & Security
 
-`REST` · `OpenAPI` · `OWASP ZAP`
+`REST APIs` · `OpenAPI` · `OWASP ZAP` · `DAST` 
 
-**Performance**
+### ⚡ Performance
 
-`Locust`
+`Locust` · `Load Testing` · `Performance Testing` · `RPS` · `Concurrency Testing`
 
-**CI/CD**
+### ☁️ Cloud & DevOps
 
-`Jenkins` · `GitHub` · `Git`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-**Containers & Cloud**
+`EKS` · `AKS` · `GKE` · `Docker` · `Kubernetes` · `Jenkins` · `Git`
 
-`Docker` · `Kubernetes` · `EKS` · `AKS` · `GKE`
+### 🗄️ Databases & Observability
 
-**Databases / Observability**
+`MongoDB` · `MySQL` · `Prometheus`
 
-`MongoDB` · `MySQL` · `Prometheus` · `Kibana`
+### 🤖 AI / GenAI
 
-**AI / GenAI**
+`RAG` · `DeepEval` · `Ollama` · `Sentence Transformers` · `LLM Evaluation`
 
-`RAG` · `DeepEval` · `Ollama` 
+### 📋 Agile & Quality
 
----
-
-# How my role has evolved
-
-My journey in QA has been less about moving away from testing and more about expanding what **"testing" means**.
-
-I started with application testing and automation.
-
-Then came API testing, CI/CD, performance and security testing, followed by Kubernetes and cloud-native environments.
-
-Now I'm exploring AI systems.
-
-The interesting part is that the basic question hasn't really changed:
-
-> **Can we trust the software we're delivering?**
-
-The way we answer that question is what keeps changing.
+`Agile` · `Scrum` · `Test Strategy` · `Quality Engineering` · `Release Testing` · `CI/CD Quality Gates`
 
 ---
 
-# What I'm learning right now
+# 📊 Quality Engineering Areas
 
-I'm currently spending time on:
+| Area                  | Experience / Focus                                         |
+| --------------------- | ---------------------------------------------------------- |
+| 🧪 Functional Testing | Application & release validation                           |
+| 🤖 Automation         | UI, API & regression automation                            |
+| 🔌 API Testing        | REST & OpenAPI                                             |
+| ⚡ Performance         | Load & concurrency testing                                 |
+| 🔐 Security           | DAST, API security & OWASP                                 |
+| ☁️ Cloud              | Kubernetes, EKS, AKS, GKE                                  |
+| 🔄 CI/CD              | Jenkins & GitHub workflows                                 |
+| 🤖 AI Testing         | LLM & RAG evaluation                                       |
+| 📊 AI Metrics         | Correctness, relevancy, faithfulness & semantic evaluation |
+| 👥 Leadership         | QA guidance, mentoring & quality strategy                  |
 
-* RAG evaluation
-* Summarization Evaluation
-* Evaluation datasets and goldens
-* Hallucination detection
-* AI testing strategies
-* Running LLMs locally with Ollama
-* Bringing AI evaluation into automated testing pipelines
 
 ---
-
 # Certifications
 
 * Certified ScrumMaster (CSM)
@@ -203,13 +181,14 @@ I'm currently spending time on:
 
 # A little about me
 
-I started my journey with Tata Consultancy Service back in 2007 as a trainee. Learned a lot and eventually resigned as Test Manager in 2018 to resume my motherly duties. 
+I started my journey with Tata Consultancy Services back in 2007 as a trainee. I’ve spent around twelve years with the same organization, taking on different roles and learning something new with each one. Since 2016, I’ve had the opportunity to lead testing across multiple projects as a Test Manager, working with teams to drive quality from planning through release.
 
-After a break of four years , VoerEir India gave me the opportunity to start the work again and from then on I am trying to give more than 100% to go one step beyond my role to improve the way we work.
+In 2018, I took a career break to focus on my family and my responsibilities as a mother.
 
-I love anchoring/ hosting events. Both of my organizations have given me forum several times to enjoy this hobby. I also love to read mythology and history during my free time.
+After a break of four years , VoerEir India gave me the opportunity in 2022 to resume my work as Test Engineer. Over the past few years my journey from Test Engineer to Senior Test Lead has been wonderful with lots of learning opportunities and freedom to explore and implement the new technologies.
+
+I love anchoring / hosting events. Both of my organisations have given me forum several times to enjoy this hobby. I also love to read mythology and history during my free time.
 
 ---
 
 ## Thanks for stopping by 👋
-
