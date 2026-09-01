@@ -1,264 +1,215 @@
-## Hi there 👋
+# Hi 👋 I'm Madhu
 
-# 👋 Hi, I'm Madhu
+### Senior Quality Engineer | Test Automation | AI Quality Engineering
 
-### Senior Quality Engineer | Test Automation | AI Quality Engineering | RAG & LLM Evaluation
+I'm a Senior Quality Engineer with experience over 16 years with a background in **test automation, API testing, performance testing, security testing, CI/CD, and Kubernetes**.
 
-I’m a **Senior Quality Engineering professional** passionate about building reliable software through **automation, engineering, and continuous improvement**.
+Over the years, my work has gradually moved beyond just writing and executing test cases. I've spent a lot of time figuring out how to make testing more **automated, reliable, maintainable, and useful to the overall engineering process**.
 
-My experience spans **test automation, API testing, performance testing, security testing, CI/CD, Kubernetes, and cloud-native environments**. More recently, I’ve been exploring **AI Quality Engineering**, with a particular focus on testing and evaluating **LLM and RAG-based applications**.
-
-I enjoy working at the intersection of **Quality Engineering, DevOps, Cloud, and AI** — turning complex testing challenges into scalable and repeatable engineering solutions.
-
+More recently, I've been exploring **AI and LLM testing**, particularly **RAG evaluation**. This has been a really interesting shift because testing an AI system isn't quite the same as testing a traditional application. There isn't always a single right answer, and deciding whether an answer is "good" requires a different way of thinking about quality.
 ---
 
-## 🧭 My Quality Engineering Journey
+## What I work with
 
-```text
-Software Testing
-       │
-       ▼
-Test Automation
-       │
-       ▼
-API & Integration Testing
-       │
-       ▼
-CI/CD & Quality Engineering
-       │
-       ▼
-Performance & Security Testing
-       │
-       ▼
-Cloud-Native / Kubernetes Testing
-       │
-       ▼
-AI / LLM / RAG Evaluation
-```
+### Test Automation
 
-My philosophy is simple:
+I've worked extensively with:
 
-> **Quality is not just about finding defects. It's about building confidence in the system.**
+* Python
+* Robot Framework
+* Selenium / SeleniumLibrary
+* Playwright
+* API automation
+* Regression and integration testing
 
----
+### APIs & Security
 
-## 🧪 What I Do
+I've worked on API testing as well as security validation, including:
 
-* 🔹 Design and implement **test automation frameworks**
-* 🔹 Build robust **API and integration test suites**
-* 🔹 Drive **quality engineering practices** across releases
-* 🔹 Integrate automated testing into **CI/CD pipelines**
-* 🔹 Perform **performance and load testing**
-* 🔹 Perform **API security and DAST testing**
-* 🔹 Work with **Kubernetes and cloud-native environments**
-* 🔹 Guide and mentor **QA / automation teams**
-* 🔹 Explore **AI/LLM application testing**
-* 🔹 Evaluate **RAG pipelines and LLM responses**
-* 🔹 Design approaches for **golden/test dataset generation**
-* 🔹 Experiment with **LLM-as-a-Judge and evaluation metrics**
-
----
-
-### 🔬 Areas I'm Exploring
-
-* RAG evaluation
-* LLM evaluation
-* Golden dataset generation
-* Automated AI quality pipelines
-* Effectively using AI in STLC.
-
-# 🛠️ Technology Stack
-
-### 👨‍💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🧪 Test Automation
-
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge\&logo=robotframework\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
-
-### 🔌 API & Security
-
-`REST APIs` · `OpenAPI` · `OWASP ZAP` · `DAST` 
-
-### ⚡ Performance
-
-`Locust` · `Load Testing` · `Performance Testing` · `RPS` · `Concurrency Testing`
-
-### ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-`EKS` · `AKS` · `GKE` · `Docker` · `Kubernetes` · `Jenkins` · `Git`
-
-### 🗄️ Databases & Observability
-
-`MongoDB` · `MySQL` · `Prometheus` 
-
-### 🤖 AI / GenAI
-
-`RAG` · `DeepEval` · `Ollama` ·  `LLM Evaluation` 
-
-### 📋 Agile & Quality
-
-`Agile` · `Scrum` · `Test Strategy` · `Quality Engineering` · `CI/CD Quality Gates`
-
----
-
-# 🔬 Featured Projects
-
-> 🚧 I'm continuously building and documenting projects around Quality Engineering and AI testing.
-
-### 🤖 RAG Evaluation
-
-Exploring an end-to-end approach for evaluating Retrieval-Augmented Generation systems.
-
-**Focus areas:**
-
-* Golden dataset creation
-* RAG question generation
-* Retrieval evaluation
-* Answer evaluation
-* Evaluation pipelines
-* RAG performance comparison with every change.
-
-**Technology:** `Python` · `DeepEval` · `Ollama` · `RAG` · `Embeddings`
-
----
-
-### 🧪 Test Automation
-
-Building maintainable automation solutions for UI, API, integration, and regression testing.
-
-**Technology:** `Python` · `Robot Framework` · `Selenium` · `Playwright`
-
----
-
-### 🔐 API Security Testing
-
-Exploring automated and manual approaches for identifying security issues in API-driven applications.
-
-**Focus areas:**
-
-* Authentication testing
-* Session management
-* Authorization testing
+* REST APIs
+* OpenAPI
+* Authentication and authorization testing
 * Input validation
-  
-**Technology:** `OWASP ZAP` · `OpenAPI` · `REST APIs`
+* OWASP ZAP
+* DAST
 
----
+### Performance Testing
 
-### ⚡ Performance Engineering
-
-Designing load and performance tests to understand application behavior under different traffic patterns.
-
-**Focus areas:**
+I use **Locust** for performance and load testing, working with things like:
 
 * RPS
 * Concurrency
 * Response times
-* Load profiles
-* Performance bottlenecks
+* Different load profiles
+* Identifying performance bottlenecks
 
-**Technology:** `Locust` · `Python`
+### CI/CD & Cloud
+
+A good part of my work involves getting testing to run as part of the development and release process.
+
+Tools and technologies I've worked with include:
+
+* Jenkins
+* Git / GitHub
+* Docker
+* Kubernetes
+* EKS
+* AKS
+* GKE
+* Flux
+---
+
+# My current area of interest: AI Quality Engineering
+
+Recently, I've been spending more time understanding **how to test and evaluate AI applications**.
+
+My main focus so far has been **RAG (Retrieval-Augmented Generation)**.
+
+What started as "let's evaluate the answers" quickly turned into questions like:
+
+* How do we create good evaluation data?
+* How do we generate reliable goldens?
+* How do we know whether the retrieved context is actually useful?
+* Is the answer correct?
+* Is it relevant to the question?
+* Is it supported by the retrieved context?
+* How do we identify hallucinations?
+* Which evaluation metric should we actually trust?
+* Can we run these evaluations automatically as part of CI/CD?
+
+I've been experimenting with tools such as:
+
+`DeepEval` · `Ollama` 
+
+and different approaches to **LLM-as-a-Judge, embeddings, semantic evaluation, and RAG metrics**.
+
+I'm still learning and experimenting in this space, and that's intentional. There are a lot of interesting problems here that don't have a simple "one tool solves it" answer.
 
 ---
 
-### ☸️ Cloud-Native Testing
+# Some of the things I'm working on
 
-Working with applications deployed across Kubernetes environments.
+### RAG Evaluation
 
-**Technology:** `Kubernetes` · `EKS` · `AKS` · `GKE` · `Docker`
+An ongoing exploration into evaluating RAG applications using automated evaluation techniques.
 
----
+Some of the areas I'm looking at:
 
-### 🔄 CI/CD Quality Engineering
+* Golden dataset generation
+* Retrieval evaluation using different Deepeval metrics.
+* Hallucination detection
+* LLM-based evaluation
+* Comparing different evaluation metrics
 
-Integrating automated quality checks into development and release workflows.
+### Test Automation
 
-**Technology:** `Jenkins` · `GitHub` · `Git` · `Docker` · `Kubernetes`
+Building and experimenting with automation approaches for:
 
----
+* UI testing
+* API testing
+* Regression testing
+* Integration testing
 
-# 📊 Quality Engineering Areas
+### API Security Testing
 
-| Area                  | Experience / Focus                                         |
-| --------------------- | ---------------------------------------------------------- |
-| 🧪 Functional Testing | Application & release validation                           |
-| 🤖 Automation         | UI, API & regression automation                            |
-| 🔌 API Testing        | REST & OpenAPI                                             |
-| ⚡ Performance         | Load & concurrency testing                                 |
-| 🔐 Security           | DAST, API security & OWASP                                 |
-| ☁️ Cloud              | Kubernetes, EKS, AKS, GKE                                  |
-| 🔄 CI/CD              | Jenkins & GitHub workflows                                 |
-| 🤖 AI Testing         | LLM & RAG evaluation                                       |
-| 📊 AI Metrics         | Correctness, relevancy, faithfulness & semantic evaluation |
-| 👥 Leadership         | QA guidance, mentoring & quality strategy                  |
+Exploring how much of API security testing can be automated and where manual testing is still necessary.
 
----
+This includes working with **OWASP ZAP**, authentication, authorization, and input validation.
 
-# 🎯 Currently Exploring
+### Performance Testing
 
-### AI Quality Engineering
+Using Locust to experiment with different traffic patterns and understand how applications behave as load increases.
 
-I'm particularly interested in:
+### Kubernetes & Cloud-Native Testing
 
-```text
-How do we test AI systems
-with the same engineering discipline
-we apply to traditional software?
-```
----
-
-# 🏆 Certifications
-
-* **Certified ScrumMaster (CSM)**
-* **Certified Kubernetes Administrator (CKA)**
+Working with applications running on Kubernetes and understanding the testing challenges that come with distributed and containerized systems.
 
 ---
 
-# 💡 How I Approach Quality
+# Technology
 
-I believe modern QA is evolving from:
+**Languages**
 
-```text
-"Did we test it?"
-```
+`Python`
 
-to:
+**Automation**
 
-```text
-"How much confidence do we have in it?"
-```
+`Robot Framework` · `Selenium` · `Playwright`
 
-And for AI systems:
+**API & Security**
 
-```text
-"How do we measure that confidence?"
-```
+`REST` · `OpenAPI` · `OWASP ZAP`
 
-That shift from **testing as a phase** to **quality as an engineering discipline** is what interests me most.
+**Performance**
+
+`Locust`
+
+**CI/CD**
+
+`Jenkins` · `GitHub` · `Git`
+
+**Containers & Cloud**
+
+`Docker` · `Kubernetes` · `EKS` · `AKS` · `GKE`
+
+**Databases / Observability**
+
+`MongoDB` · `MySQL` · `Prometheus` · `Kibana`
+
+**AI / GenAI**
+
+`RAG` · `DeepEval` · `Ollama` 
 
 ---
 
-# 📈 What I'm Building Toward
+# How my role has evolved
 
-My goal is to combine my experience in:
+My journey in QA has been less about moving away from testing and more about expanding what **"testing" means**.
 
-**Test Automation + Quality Engineering + Cloud + Security + AI**
+I started with application testing and automation.
 
-to build practical approaches for testing the next generation of software systems.
+Then came API testing, CI/CD, performance and security testing, followed by Kubernetes and cloud-native environments.
+
+Now I'm exploring AI systems.
+
+The interesting part is that the basic question hasn't really changed:
+
+> **Can we trust the software we're delivering?**
+
+The way we answer that question is what keeps changing.
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# What I'm learning right now
 
-```text
-Build → Test → Measure → Improve → Repeat
-```
+I'm currently spending time on:
+
+* RAG evaluation
+* Summarization Evaluation
+* Evaluation datasets and goldens
+* Hallucination detection
+* AI testing strategies
+* Running LLMs locally with Ollama
+* Bringing AI evaluation into automated testing pipelines
+
+---
+
+# Certifications
+
+* Certified ScrumMaster (CSM)
+* Certified Kubernetes Administrator (CKA)
+
+---
+
+# A little about me
+
+I started my journey with Tata Consultancy Service back in 2007 as a trainee. Learned a lot and eventually resigned as Test Manager in 2018 to resume my motherly duties. 
+
+After a break of four years , VoerEir India gave me the opportunity to start the work again and from then on I am trying to give more than 100% to go one step beyond my role to improve the way we work.
+
+I love anchoring/ hosting events. Both of my organizations have given me forum several times to enjoy this hobby. I also love to read mythology and history during my free time.
+
+---
+
+## Thanks for stopping by 👋
+
