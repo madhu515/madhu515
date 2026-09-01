@@ -149,7 +149,7 @@ Exploring automated and manual approaches for identifying security issues in API
 * Session management
 * Authorization testing
 * Input validation
-* 
+  
 **Technology:** `OWASP ZAP` · `OpenAPI` · `REST APIs`
 
 ---
